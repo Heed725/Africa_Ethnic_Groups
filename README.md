@@ -11,6 +11,50 @@
 
 ---
 
+<p align="center">
+
+  <a href="https://github.com/Heed725/Africa_Ethnic_Groups/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_ZIP-All_Files-2ea44f?style=for-the-badge" alt="Download ZIP"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Heed725/Africa_Ethnic_Groups/raw/main/Africa_Ethnicity_Shapefile.shp">
+    <img src="https://img.shields.io/badge/⬇️_Download-.SHP-orange?style=for-the-badge" alt="Download SHP"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Heed725/Africa_Ethnic_Groups/raw/main/Africa_Ethnicity_Shapefile.dbf">
+    <img src="https://img.shields.io/badge/⬇️_Download-.DBF-orange?style=for-the-badge" alt="Download DBF"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/Heed725/Africa_Ethnic_Groups/raw/main/Africa_Ethnicity_Shapefile.shx">
+    <img src="https://img.shields.io/badge/⬇️_Download-.SHX-blue?style=flat-square" alt="Download SHX"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Heed725/Africa_Ethnic_Groups/raw/main/Africa_Ethnicity_Shapefile.prj">
+    <img src="https://img.shields.io/badge/⬇️_Download-.PRJ-blue?style=flat-square" alt="Download PRJ"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Heed725/Africa_Ethnic_Groups/raw/main/Africa_Ethnicity_Shapefile.cpg">
+    <img src="https://img.shields.io/badge/⬇️_Download-.CPG-blue?style=flat-square" alt="Download CPG"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Heed725/Africa_Ethnic_Groups/raw/main/Africa_Ethnicity_Shapefile.qmd">
+    <img src="https://img.shields.io/badge/⬇️_Download-.QMD-blue?style=flat-square" alt="Download QMD"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Heed725/Africa_Ethnic_Groups/raw/main/Africa_Ethnicity_QML.qml">
+    <img src="https://img.shields.io/badge/⬇️_Download-.QML_Style-9C27B0?style=flat-square" alt="Download QML"/>
+  </a>
+
+</p>
+
+> **💡 Recommended:** Use the **Download ZIP** button above to get all files at once. All shapefile components must be in the same folder to work correctly.
+
+---
+
 ## 📋 Overview
 
 A geospatial dataset mapping **ethnic groups across the African continent** as an ESRI Shapefile, bundled with a QGIS style file (`.qml`) for ready-to-use cartographic visualization. This dataset provides polygon boundaries delineating the spatial distribution of ethnic groups throughout Africa.
@@ -220,6 +264,14 @@ Contributions are welcome! If you have corrections, additional data, or improvem
 ## 📝 License
 
 This dataset is shared for educational and research purposes. Please check the original data source for specific licensing terms before using in commercial projects.
+
+---
+
+## 🔗 Related Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [Tanzania_Ethnicity_Shapefile](https://github.com/Heed725/Tanzania_Ethnicity_Shapefile) | Ethnic group shapefile for Tanzania |
 
 ---
 
